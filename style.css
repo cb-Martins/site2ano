@@ -29,14 +29,14 @@
     align-items: center;
 }
 .escola-div-conteudo{
-    width: 35%;
+    width: 40%;
 }
 .escola-imagem{
     width: 25%;
 }
 
 .estudante-foto{
-    width: 1%;
+    width: 5%;
 }
 .estudante-imagem{
     width: 1%;
@@ -46,7 +46,7 @@
     padding: 50px 0;
 }
 .estudante-todos{
-    display:grid;
+    display: grid;
     grid-template-columns: 20% 20% 20% 20%;
 }
     
